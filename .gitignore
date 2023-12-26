@@ -6,3 +6,6 @@ venv/
 
 # local db
 db.sqlite3
+
+# pycache
+app/__pycache__
